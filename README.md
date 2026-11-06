@@ -1,2 +1,2 @@
-# cordeirinho-jesus
-Site oficial do Cordeirinho Jesus
+# cordeirinhos-de-jesus
+Site oficial do Cordeirinhos de Jesus
